@@ -6,7 +6,7 @@
 
 In medical diagnostics, traditional methods like Giemsa staining are time-consuming and involve hazardous chemicals. This project proposes a deep learning approach using Convolutional Neural Networks (CNNs) to classify unstained WBC images, enabling safer and more efficient identification of WBCs.
 
-The model achieves an accuracy of 92% on a validation dataset.  See the [final report](report/final_report.md) for more details.
+The model achieves an accuracy of 92% on a validation dataset. 
 
 ## Prerequisites
 
