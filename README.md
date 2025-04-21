@@ -19,7 +19,7 @@ The model achieves an accuracy of 92% on a validation dataset.
 
 2.  **Notebook** The notebook also includes code for training the model from scratch, but this is not required to run the demo.
 
-3.  **Trained Model** Download the wbc_model_gray.pth file
+3.  **Trained Model** Load the wbc_model_gray.pth file to the notebook and use image files from Demo folder to Test the model.
 
 ## License
 
