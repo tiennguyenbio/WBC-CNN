@@ -1,0 +1,6 @@
+gradio>=6.3.0
+gradio-client>=2.0.3
+torch
+torchvision
+Pillow
+huggingface-hub
