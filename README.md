@@ -10,16 +10,25 @@ The model achieves an accuracy of 92% on a validation dataset.
 
 ## Prerequisites
 
-1. Python 3.8
-2. Pytorch 2.2.2
+Torch
+Pytorch
 
 ## Usage
 
-1.  **Dataset:**  The Double-labeled RaabinWBC  dataset is available on [Raabin Data](https://dl.raabindata.com/WBC/Cropped_double_labeled/) and the Peripheral Blood Cell (PBC) dataset is available on [PBC](https://data.mendeley.com/datasets/snkd93bnjr/1). *Note: Due to size limitations, this repository includes only a small subset of the dataset for demonstration purposes. To run the full training, you will need to download the full dataset.*
+1. **Demo**
+You can try out the model online via this [Demo Link](https://tiennguyenbio-wbc-cnn.hf.space/).
+For example, see this [Demo Session](https://tiennguyenbio-wbc-cnn.hf.space/?logs=build&__theme=system&deep_link=yaIijrJsc8Q) to explore how it works.
 
-2.  **Notebook** The notebook also includes code for training the model from scratch, but this is not required to run the demo.
+To test the model with sample images:
 
-3.  **Trained Model** Load the wbc_model_gray.pth file to the notebook and use image files from Demo folder to Test the model.
+1. Use the images in the [Demo folder](https://github.com/tiennguyenbio/WBC-CNN/tree/main/Demo).
+2. Each image’s label corresponds to its **subfolder name**.
+
+3.  **Dataset:**  The Double-labeled RaabinWBC  dataset is available on [Raabin Data](https://dl.raabindata.com/WBC/Cropped_double_labeled/) and the Peripheral Blood Cell (PBC) dataset is available on [PBC](https://data.mendeley.com/datasets/snkd93bnjr/1). *Note: Due to size limitations, this repository includes only a small subset of the dataset for demonstration purposes. To run the full training, you will need to download the full dataset.*
+
+4.  **Notebook** The notebook also includes code for training the model from scratch, but this is not required to run the demo.
+
+5.  **Trained Model** Load the wbc_model_gray.pth file to the notebook and use image files from Demo folder to Test the model.
 
 ## License
 
