@@ -17,7 +17,7 @@ Pytorch
 
 1. **Demo**
 You can try out the model online via this [Demo Link](https://tiennguyenbio-wbc-cnn.hf.space/).
-For example, see this [Demo Session](https://tiennguyenbio-wbc-cnn.hf.space/?logs=build&__theme=system&deep_link=yaIijrJsc8Q) to explore how it works.
+For example, see this [Demo Session](https://tiennguyenbio-wbc-cnn.hf.space/?__theme=system&deep_link=jCDZYGuxwIQ) to explore how it works.
 
 To test the model with sample images:
 
